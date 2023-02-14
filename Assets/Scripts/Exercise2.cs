@@ -8,7 +8,8 @@ public class Exercise2 : MonoBehaviour
 
     private void Start()
     {
-        while (i <= 20)
+        while (i <= 20) /* mientras "i" sea menor o igual a 20, poner en consola "Hola, holita, vecinito", 
+                           es decir, pondra en consola 20 veces "Hola, holita, vecinito"*/
         {
             Debug.Log("Hola, holita, vecinito");
             i++;
