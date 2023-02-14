@@ -253,6 +253,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 180ce1a192749dd4da7c903ddd501e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  positions:
+  - {x: 1, y: 0, z: 0}
+  - {x: -2, y: 7, z: 0}
+  - {x: 5, y: -2, z: 0}
+  - {x: 3, y: -4, z: 0}
+  - {x: 7, y: -2, z: 0}
+  - {x: 2, y: 3, z: 0}
+  - {x: -6, y: 2, z: 0}
+  - {x: 1, y: -4, z: 0}
+  - {x: -3, y: 1, z: 0}
+  - {x: 6, y: -2, z: 0}
 --- !u!114 &866184477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -265,6 +276,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318e0417bd7f4b74c9461b40d963b72e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftEnd: 0
+  rightEnd: 0
 --- !u!114 &866184478
 MonoBehaviour:
   m_ObjectHideFlags: 0
